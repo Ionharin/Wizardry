@@ -66,39 +66,39 @@ item.wizardry:spectral_pickaxe.name=虚幽之镐
 item.wizardry:spectral_bow.name=虚幽之弓
 
 item.wizardry:mana_flask.name=玛那瓶
-item.wizardry:storage_upgrade.name=Wand Storage Upgrade
-item.wizardry:siphon_upgrade.name=Wand Siphon Upgrade
-item.wizardry:condenser_upgrade.name=Wand Condenser Upgrade
-item.wizardry:range_upgrade.name=Wand Range Upgrade
-item.wizardry:duration_upgrade.name=Wand Duration Upgrade
-item.wizardry:cooldown_upgrade.name=Wand Cooldown Upgrade
-item.wizardry:blast_upgrade.name=Wand Blast Upgrade
-item.wizardry:attunement_upgrade.name=Wand Attunement Upgrade
+item.wizardry:storage_upgrade.name=魔杖存储升级
+item.wizardry:siphon_upgrade.name=魔杖聚流升级
+item.wizardry:condenser_upgrade.name=魔杖充能升级
+item.wizardry:range_upgrade.name=魔杖广域升级
+item.wizardry:duration_upgrade.name=魔杖持久升级
+item.wizardry:cooldown_upgrade.name=魔杖冷却升级
+item.wizardry:blast_upgrade.name=魔杖爆毁升级
+item.wizardry:attunement_upgrade.name=魔杖调率升级
 
-item.wizardry:flaming_axe.name=Flaming Axe
-item.wizardry:frost_axe.name=Frost Axe
+item.wizardry:flaming_axe.name=史尔特之斧
+item.wizardry:frost_axe.name=寒霜斧
 
-item.wizardry:firebomb.name=Firebomb
-item.wizardry:poison_bomb.name=Poison Bomb
-item.wizardry:smoke_bomb.name=Smoke Bomb
+item.wizardry:firebomb.name=炎狱爆弹
+item.wizardry:poison_bomb.name=腐毒爆弹
+item.wizardry:smoke_bomb.name=烟雾爆弹
 
-item.wizardry:blank_scroll.name=Blank Scroll
-item.wizardry:scroll.name=Scroll of %1$s
-item.wizardry:scroll.undiscovered.name=Scroll "%1$s"
-item.wizardry:identification_scroll.name=Scroll of Identification
-item.wizardry:identification_scroll.desc1=%1$sIdentifies an unknown
-item.wizardry:identification_scroll.desc2=%1$sspell book or scroll
-item.wizardry:identification_scroll.nothing_to_identify=Nothing to identify!
+item.wizardry:blank_scroll.name=空白卷轴
+item.wizardry:scroll.name=%1$s之秘言
+item.wizardry:scroll.undiscovered.name=卷轴 "%1$s"
+item.wizardry:identification_scroll.name=被判定的卷轴
+item.wizardry:identification_scroll.desc1=%1$s存在不明
+item.wizardry:identification_scroll.desc2=%1$s咒法书或卷轴
+item.wizardry:identification_scroll.nothing_to_identify=没有能鉴定的存在！
 
-item.wizardry:armour_upgrade.name=Arcane Seal of Protection
-item.wizardry:armour_upgrade.desc1=%1$sUpgrades any wizard armour
-item.wizardry:armour_upgrade.desc2=%1$sto make it %2$slegendary
+item.wizardry:armour_upgrade.name=防护封印咒式
+item.wizardry:armour_upgrade.desc1=%1$s升级任何巫咒防具
+item.wizardry:armour_upgrade.desc2=%1$s让其 %2$s散发荣光
 
-item.wizardry:magic_silk.name=Magical Silk
+item.wizardry:magic_silk.name=巫咒丝绸
 
-item.wizardry:wizard_armour.legendary=Legendary
-item.wizardry:wizard_armour.buff=-%1$s %2$s cost
-item.wizardry:wizard_armour.mana=Mana: %1$s/%2$s
+item.wizardry:wizard_armour.legendary=荣耀的
+item.wizardry:wizard_armour.buff=-%1$s %2$s 花费
+item.wizardry:wizard_armour.mana=玛那: %1$s/%2$s
 
 item.wizardry:wizard_hat.name=Wizard Hat
 item.wizardry:wizard_robe.name=Wizard Robes
